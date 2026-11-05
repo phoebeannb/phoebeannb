@@ -1,6 +1,6 @@
 <div align="center">
 
-# Phoebe
+# Phoebe Ann Balderamos
 
 **Full-Stack Developer** · Computer Science, Cavite State University
 
@@ -27,7 +27,6 @@ My projects cover finance tracking, learning management, reservations, and point
 ## Tech Stack
 
 | | |
-|---|---|
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap&theme=dark" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" /> |
@@ -38,7 +37,6 @@ My projects cover finance tracking, learning management, reservations, and point
 ## Featured Projects
 
 | Project | What it does | Stack |
-|---|---|---|
 | **💰 PocketWise** | Personal money tracker for managing income, expenses, and savings | `MongoDB` `Express` `React` `Node.js` |
 | **🎓 ZCMC LMS** | Learning management system with authentication and API-based features | `Laravel` `Vue.js` `MySQL` |
 | **🏨 Hotel Reservation System** | Manages room reservations and guest information | `PHP` `MySQL` `JavaScript` |
@@ -50,12 +48,6 @@ My projects cover finance tracking, learning management, reservations, and point
 
 I'm looking for opportunities where I can contribute to real products and keep growing as a developer. Feel free to reach out.
 
-📧 [your.email@example.com](mailto:your.email@example.com)
-<br/>💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+📧 [phoebeannbalderamos001@gmail.com](mailto:phoebeannbalderamos001@gmail.com)
+<br/>💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/phoebeannbalderamos/))
 <br/>🐙 [GitHub](https://github.com/phoebeannb)
-
-<br/>
-
-<div align="center">
-  <sub><i>Building, learning, and improving one project at a time.</i></sub>
-</div>
