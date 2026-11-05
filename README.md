@@ -22,8 +22,6 @@ I'm a full-stack developer who enjoys turning ideas into functional, user-friend
 
 My projects cover finance tracking, learning management, reservations, and point-of-sale systems, each built end to end with real-world use in mind.
 
-**Currently:** sharpening my full-stack skills through hands-on projects and open to new opportunities.
-
 <br/>
 
 ## Tech Stack
