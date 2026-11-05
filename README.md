@@ -35,8 +35,8 @@ Cavite State University – Silang Campus
 
 ### 📫 Connect With Me
 
-- GitHub: [@phoebeannb](https://github.com/phoebeannb)
-- LinkedIn: (https://www.linkedin.com/in/phoebeannbalderamos/)
+- GitHub: github.com/phoebeannb
+- LinkedIn: www.linkedin.com/in/phoebeannbalderamos
 - Email: phoebeannbalderamos001@gmail.com
 
 ---
