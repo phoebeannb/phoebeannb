@@ -31,8 +31,6 @@ My projects cover finance tracking, learning management, reservations, and point
 | **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> |
 
-<br/>
-
 ## Featured Projects
 
 | Project | What it does | Stack |
@@ -41,8 +39,6 @@ My projects cover finance tracking, learning management, reservations, and point
 | **🎓 ZCMC LMS** | Learning management system with authentication and API-based features | `Laravel` `Vue.js` `MySQL` |
 | **🏨 Hotel Reservation System** | Manages room reservations and guest information | `PHP` `MySQL` `JavaScript` |
 | **🛒 BonBon POS & Inventory** | Handles sales, products, and inventory tracking | `PHP` `MySQL` `JavaScript` |
-
-<br/>
 
 ## Let's Work Together
 
