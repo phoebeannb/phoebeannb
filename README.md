@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** · Computer Science, Cavite State University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=6366F1&center=true&vCenter=true&width=480&lines=Building+responsive+web+applications;React+%7C+Vue+%7C+Laravel+%7C+Node.js;Open+to+internships+and+entry-level+roles)](https://github.com/phoebeannb)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=6366F1&center=true&vCenter=true&width=480&lines=Building+responsive+web+applications;React+%7C+Vue+%7C+Laravel+%7C+Node.js;)](https://github.com/phoebeannb)
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
