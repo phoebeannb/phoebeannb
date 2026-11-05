@@ -10,6 +10,8 @@
 <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/phoebeannb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=phoebeannb&label=Profile+Views&color=6366f1&style=flat-square)
+
 </div>
 
 <br/>
