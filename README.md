@@ -51,7 +51,7 @@ My projects cover finance tracking, learning management, reservations, and point
 I'm looking for opportunities where I can contribute to real products and keep growing as a developer. Feel free to reach out.
 
 📧 [phoebeannbalderamos001@gmail.com](mailto:phoebeannbalderamos001@gmail.com)
-<br/>💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/phoebeannbalderamos/))
+<br/>💼 [LinkedIn](https://www.linkedin.com/in/phoebeannbalderamos/)
 <br/>🐙 [GitHub](https://github.com/phoebeannb)
 
 <br/>
